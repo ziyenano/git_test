@@ -4,5 +4,7 @@ def test_fun:
     print "from debian"
     print "from debian_modi"
     print "456"
+    print "edf"
+    print "hjk"
     print "789"
     print "abc"
