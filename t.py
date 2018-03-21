@@ -8,3 +8,4 @@ def test_fun:
     print "hjk"
     print "789"
     print "abc"
+    print "jdk"
