@@ -3,3 +3,4 @@ def test_fun:
     print "from ubuntu"
     print "from debian"
     print "from debian_modi"
+    print "456"
