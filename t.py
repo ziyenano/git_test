@@ -9,3 +9,4 @@ def test_fun:
     print "789"
     print "abc"
     print "jdk"
+    print "qwe"
